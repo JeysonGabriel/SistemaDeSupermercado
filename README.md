@@ -1,1 +1,1 @@
-# Mercadinho-Super-Massa
+Sistema de supermercado
